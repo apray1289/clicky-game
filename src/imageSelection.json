@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "Luka",
+      "image":
+        "./public/images/lukaDoncic.jpg"
+
+    },
+    {
+        "id": 2,
+        "name": "Porzingis",
+        "image":
+          "./public/images/kPorzingis.jpg"
+  
+      },
+      {
+        "id": 3,
+        "name": "Dirk",
+        "image":
+          "./public/images/dirk.jpg"
+  
+      },
+      {
+        "id": 4,
+        "name": "Boban",
+        "image":
+          "./public/images/boban.jpg"
+  
+      },
+      {
+        "id": 5,
+        "name": "Jalen",
+        "image":
+          "./public/images/jalenBrunson.jpg"
+  
+      },
+      {
+        "id": 6,
+        "name": "Dwight",
+        "image":
+          "./public/images/dwightPowell.jpg"
+  
+      },
+      {
+        "id": 7,
+        "name": "Finney",
+        "image":
+          "./public/images/finney.jpg"
+  
+      },
+      {
+        "id": 8,
+        "name": "Logo",
+        "image":
+          "./public/images/mavsLogo.jpg"
+  
+      },
+      {
+        "id": 9,
+        "name": "JJ",
+        "image":
+          "./public/images/jj.jpg"
+  
+      },
+      {
+        "id": 10,
+        "name": "Mascot",
+        "image":
+          "./public/images/mavsMascot.png"
+  
+      },
+      {
+        "id": 11,
+        "name": "Maxi",
+        "image":
+          "./public/images/maxiKleber.jpg"
+  
+      },
+      {
+        "id": 12,
+        "name": "Hardaway",
+        "image":
+          "./public/images/timHardaway.jpg"
+  
+      }
+      
+  ]
